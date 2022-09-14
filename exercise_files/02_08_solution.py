@@ -80,5 +80,5 @@ class TerminalScribe:
 canvas = Canvas(30, 30)
 scribe = TerminalScribe(canvas)
 
-scribe.drawSquare(20)
+scribe.drawSquare(5)
 
